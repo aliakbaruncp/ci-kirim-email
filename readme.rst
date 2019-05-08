@@ -1,5 +1,5 @@
 ###################
-What is CodeIgniter
+Script Kirim Email dengan Codeigniter
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
