@@ -12,5 +12,10 @@ $config['smtp_user']   = 'email-gmail-anda@gmail.com'; // gati dengan akun gmail
 
 $config['smtp_pass']   = 'password-gmail-anda'; // password akun gmail anda
 
+*******************
+Artikel Lengkap
+*******************
 
--  Sumber Artikel: `https://akbardesign.org/mengirim-email-dengan-codeigniter/ <https://akbardesign.org/mengirim-email-dengan-codeigniter/>`_
+Baca artikel lengkapnya melalui link sumber di bawah!
+
+-  Sumber: `https://akbardesign.org/mengirim-email-dengan-codeigniter/ <https://akbardesign.org/mengirim-email-dengan-codeigniter/>`_
